@@ -1,0 +1,6 @@
+C:/Users/felip/CLionProjects/Ejercicio_01/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/felip/CLionProjects/Ejercicio_01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/felip/CLionProjects/Ejercicio_01/cmake-build-debug/source/CMakeFiles/Ejercicio_01_run.dir
+C:/Users/felip/CLionProjects/Ejercicio_01/cmake-build-debug/source/CMakeFiles/edit_cache.dir
+C:/Users/felip/CLionProjects/Ejercicio_01/cmake-build-debug/source/CMakeFiles/Ejercicio_01_lib.dir
+C:/Users/felip/CLionProjects/Ejercicio_01/cmake-build-debug/source/CMakeFiles/rebuild_cache.dir
