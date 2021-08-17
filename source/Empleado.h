@@ -2,6 +2,14 @@
 #define EJERCICIO_01_EMPLEADO_H
 #include <iostream>
 #include <string>
+#include <fstream>
+#include <sstream>
+
+struct convertible {
+   static int convertibleInt(std::string);
+   static float convertiblefloat(std::string);
+};
+
 
 class Empleado {
 private:
@@ -43,6 +51,16 @@ public:
     void setSalarioBruto(float salarioBruto);
 
     virtual ~Empleado();
+
+    virtual std::string toString();
+
+    virtual void calcularDeducciones();
+
+    virtual void calcularSalarioNeto();
+
+    static Empleado* recuperaEmpleado(std::ifstream&);
+
+    virtual void guardaEmpleado(std::ofstream&);
 };
 
 
